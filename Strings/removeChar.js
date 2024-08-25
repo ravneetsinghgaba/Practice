@@ -19,6 +19,6 @@ function replaceChar3(str) {
 }
 
 
-replaceChar1("Kaka");
-replaceChar2("Kaka");
-replaceChar3("Kaka");
+replaceChar1("Kaka"); //Kika
+replaceChar2("Kaka"); //Kiki
+replaceChar3("Kaka"); //Kak
